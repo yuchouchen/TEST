@@ -1,4 +1,4 @@
-# How to prepare the tidy data required in "Getting and Cleaning Data" course for the Course Project
+## How to prepare the tidy data required in "Getting and Cleaning Data" course for the Course Project
 This README is for anyone who needs to understand the 'run_analysis.R' briefly.
 
 * Input: 
